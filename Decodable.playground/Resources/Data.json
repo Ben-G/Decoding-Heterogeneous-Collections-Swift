@@ -1,0 +1,23 @@
+ [
+  {
+      "type" : "user",
+      "name" : "test",
+      "age"  : 99
+  },
+  {
+      "type"  : "car",
+      "color" : "green"
+  },
+  {
+      "type" : "phone",
+      "model" : "iPhone"
+  },
+  {
+      "type"  : "car",
+      "color" : "yellow"
+  },
+  {
+      "type" : "phone",
+      "model" : "Anroid Device"
+  }
+]

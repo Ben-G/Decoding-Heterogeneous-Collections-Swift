@@ -1,0 +1,6 @@
+framework module Pods_DecodablePlayground {
+  umbrella header "Pods-DecodablePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
